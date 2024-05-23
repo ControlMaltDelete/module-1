@@ -8,3 +8,4 @@
 4. Instructions for each Challenge can be found inside the script tag in `index.html`.
 5. You can see test results in your Console.
 6. Upload the completed `index.html` file to Codegrade.
+7. Git bash change 
